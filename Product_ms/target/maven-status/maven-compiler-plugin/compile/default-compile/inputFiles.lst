@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\application\internal\applicationServices\ProcurementService.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\interfaces\rest\ProductController.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\application\internal\domainServices\ProductService.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\application\internal\queryServices\ProcurementQueryService.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\interfaces\rest\dto\ProductDTO.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\SpringApp.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\infrastructure\repositories\ProductRepository.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\shareddomain\events\ProcurementStockEvent.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\domain\model\valueObjects\Contact.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\shareddomain\events\ProcurementStockEventData.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\application\internal\outboundServices\ProcurementEventPublisherService.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\domain\model\aggregates\Order.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\infrastructure\brokers\ProcurementStockEventSource.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\interfaces\rest\transform\ProductDTOAssembler.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\domain\model\valueObjects\ProductDetail.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\domain\model\aggregates\Customer.java
+C:\Users\User\Desktop\Projects\demo-Product\src\main\java\CSCI318\procurementms\domain\model\aggregates\Product.java

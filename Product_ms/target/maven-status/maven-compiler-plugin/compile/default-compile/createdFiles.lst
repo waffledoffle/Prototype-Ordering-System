@@ -1,0 +1,17 @@
+CSCI318\procurementms\infrastructure\brokers\ProcurementStockEventSource.class
+CSCI318\procurementms\application\internal\domainServices\ProductService.class
+CSCI318\procurementms\infrastructure\repositories\ProductRepository.class
+CSCI318\procurementms\interfaces\rest\dto\ProductDTO.class
+CSCI318\procurementms\interfaces\rest\ProductController.class
+CSCI318\procurementms\application\internal\applicationServices\ProcurementService.class
+CSCI318\shareddomain\events\ProcurementStockEventData.class
+CSCI318\procurementms\domain\model\valueObjects\Contact.class
+CSCI318\SpringApp.class
+CSCI318\procurementms\domain\model\aggregates\Customer.class
+CSCI318\procurementms\domain\model\aggregates\Order.class
+CSCI318\procurementms\interfaces\rest\transform\ProductDTOAssembler.class
+CSCI318\procurementms\domain\model\valueObjects\ProductDetail.class
+CSCI318\procurementms\application\internal\outboundServices\ProcurementEventPublisherService.class
+CSCI318\procurementms\application\internal\queryServices\ProcurementQueryService.class
+CSCI318\procurementms\domain\model\aggregates\Product.class
+CSCI318\shareddomain\events\ProcurementStockEvent.class
